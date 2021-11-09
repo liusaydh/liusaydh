@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @liusaydh
+- 👀 I’m interested in R, Python, GIS, technology in geology, sustainability and much more!
+- 🌱 I’m currently learning modelling in R.
+- 💞️ I’m not looking to collaborate on anything yet. Feel free to message me, though.
+- 📫 How to reach me: lucy@halcyon.hr
