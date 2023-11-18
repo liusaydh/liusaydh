@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @liusaydh
-- 👀 I’m interested in R, Python, GIS, technology in geology, sustainability and much more!
-- 🌱 I’m currently learning modelling in R.
-- 💞️ I’m not looking to collaborate on anything yet. Feel free to message me, though.
-- 📫 How to reach me: lucy@halcyon.hr
+- 👀 I’m interested in R, Python, SQL, sustainability, data science and much more!
+- 🌱 I’m currently learning Credit Risk Modelling in Python.
+- 💞️ Feel free to message me to collaborate on modelling stuff.
+- 📫 How to reach me: lucija.marjanovic@gmail.hr
